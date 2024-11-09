@@ -3,7 +3,7 @@ Paywise is a Java application designed to help users efficiently manage their in
 
 Features
 Automated Income Allocation: Set percentages for various categories to automatically divide your income upon each entry.
-Customizable Categories: Users can define and modify categories based on their specific needs.
+Customizable Categories: Define and modify categories based on your needs.
 Real-Time Overview: Instantly view allocation amounts in each category.
 User-Friendly Interface: Simple, clean interface for easy navigation and use.
 Getting Started
@@ -11,7 +11,7 @@ Prerequisites
 To run Paywise, ensure you have:
 
 Java Development Kit (JDK) 11 or higher
-Any preferred Java IDE (e.g., IntelliJ IDEA, Eclipse)
+A Java IDE, such as IntelliJ IDEA or Eclipse
 Installation
 Clone the Repository:
 
@@ -36,7 +36,14 @@ Contributing
 Contributions are welcome! To contribute:
 
 Fork this repository.
-Create a feature branch (git checkout -b feature/FeatureName).
+Create a feature branch:
+bash
+Copy code
+git checkout -b feature/FeatureName
 Commit your changes and open a pull request.
+
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
