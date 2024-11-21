@@ -1,4 +1,5 @@
-Paywise
+## Paywise
+
 Paywise is a Java application designed to help users efficiently manage their income by automatically dividing it into various categories, such as taxes, savings, checking, and other custom categories. It provides an intuitive approach to budgeting, ensuring funds are allocated precisely to fit the user's financial plan.
 
 Features
